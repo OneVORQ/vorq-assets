@@ -1,0 +1,9 @@
+{
+  "name": "VORQ #10",
+  "description": "Test NFT, Shadow Coon.",
+  "image": "https://OneVORQ.github.io/vorq-assets/images/vorq10.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Coon" },
+    { "trait_type": "Color", "value": "Shadow" }
+  ]
+}

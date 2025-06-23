@@ -1,0 +1,9 @@
+{
+  "name": "VORQ #3",
+  "description": "Test NFT, Shadow Dog.",
+  "image": "https://OneVORQ.github.io/vorq-assets/images/vorq03.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Dog" },
+    { "trait_type": "Color", "value": "Shadow" }
+  ]
+}

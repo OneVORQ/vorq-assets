@@ -1,0 +1,9 @@
+{
+  "name": "VORQ #4",
+  "description": "Test NFT, Shadow Panda.",
+  "image": "https://OneVORQ.github.io/vorq-assets/images/vorq04.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Panda" },
+    { "trait_type": "Color", "value": "Shadow" }
+  ]
+}
