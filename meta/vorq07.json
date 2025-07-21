@@ -1,0 +1,9 @@
+{
+  "name": "VORQ #7",
+  "description": "Test NFT, Shadow Urus.",
+  "image": "https://OneVORQ.github.io/vorq-assets/images/vorq07.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Urus" },
+    { "trait_type": "Color", "value": "Shadow" }
+  ]
+}

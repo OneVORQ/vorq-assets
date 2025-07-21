@@ -1,0 +1,9 @@
+{
+  "name": "VORQ #8",
+  "description": "Test NFT, Shadow Monkey.",
+  "image": "https://OneVORQ.github.io/vorq-assets/images/vorq08.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Monkey" },
+    { "trait_type": "Color", "value": "Shadow" }
+  ]
+}

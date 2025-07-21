@@ -1,0 +1,12 @@
+{
+  "name": "OneVORQ Genesis Collection",
+  "description": "The first set of VORQ characters for OneVORQ MiniApp.",
+  "image": "https://onevorq.github.io/vorq-assets/images/vorq-collection-banner.png",
+  "external_link": "https://onevorq.com",
+  "seller_fee_basis_points": 0,
+  "fee_recipient": "0:0",
+  "attributes": [
+    {"trait_type": "Generation", "value": "Genesis"},
+    {"trait_type": "Network", "value": "Testnet"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "VORQ #1",
+  "description": "Test NFT, Shadow Gorilla.",
+  "image": "https://OneVORQ.github.io/vorq-assets/images/vorq01.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Gorilla" },
+    { "trait_type": "Color", "value": "Shadow" }
+  ]
+}
